@@ -1,0 +1,800 @@
+epoch:1 Q:	1 4x1
+epoch:1 Q:	0 2x2
+epoch:1 Q:	0 2x2
+epoch:1 Q:	9 1x4
+epoch:1 Q:	0 1x1
+epoch:1 Q:	17 2x2
+epoch:1 Q:	7 2x2
+clear
+epoch:2 Q:	9 1x1
+epoch:2 Q:	1 2x2
+epoch:2 Q:	0 2x2
+epoch:2 Q:	0 2x2
+epoch:2 Q:	0 1x4
+epoch:2 Q:	17 2x2
+epoch:2 Q:	12 4x1
+clear
+epoch:3 Q:	3 2x2
+epoch:3 Q:	1 4x1
+epoch:3 Q:	1 1x1
+epoch:3 Q:	0 2x2
+epoch:3 Q:	0 2x2
+epoch:3 Q:	0 2x2
+epoch:3 Q:	0 1x4
+clear
+epoch:4 Q:	1 4x1
+epoch:4 Q:	0 2x2
+epoch:4 Q:	0 2x2
+epoch:4 Q:	0 2x2
+epoch:4 Q:	0 2x2
+epoch:4 Q:	9 1x1
+epoch:4 Q:	0 1x4
+clear
+epoch:5 Q:	3 2x2
+epoch:5 Q:	0 1x4
+epoch:5 Q:	1 4x1
+epoch:5 Q:	1 2x2
+epoch:5 Q:	17 2x2
+epoch:5 Q:	12 1x1
+epoch:5 Q:	24 2x2
+clear
+epoch:6 Q:	9 1x1
+epoch:6 Q:	1 2x2
+epoch:6 Q:	0 2x2
+epoch:6 Q:	0 4x1
+epoch:6 Q:	0 1x4
+epoch:6 Q:	17 2x2
+epoch:6 Q:	3 2x2
+clear
+epoch:7 Q:	9 1x4
+epoch:7 Q:	1 2x2
+epoch:7 Q:	0 2x2
+epoch:7 Q:	0 1x1
+epoch:7 Q:	3 4x1
+epoch:7 Q:	3 2x2
+epoch:7 Q:	3 2x2
+clear
+epoch:8 Q:	1 4x1
+epoch:8 Q:	0 2x2
+epoch:8 Q:	0 2x2
+epoch:8 Q:	0 2x2
+epoch:8 Q:	9 1x1
+epoch:8 Q:	0 1x4
+epoch:8 Q:	17 2x2
+clear
+epoch:9 Q:	3 2x2
+epoch:9 Q:	1 2x2
+epoch:9 Q:	0 4x1
+epoch:9 Q:	0 2x2
+epoch:9 Q:	0 2x2
+epoch:9 Q:	0 1x4
+epoch:9 Q:	19 1x1
+clear
+epoch:10 Q:	3 2x2
+epoch:10 Q:	1 2x2
+epoch:10 Q:	0 1x1
+epoch:10 Q:	17 2x2
+epoch:10 Q:	19 4x1
+epoch:10 Q:	16 2x2
+epoch:10 Q:	12 1x4
+clear
+epoch:11 Q:	3 2x2
+epoch:11 Q:	1 2x2
+epoch:11 Q:	0 4x1
+epoch:11 Q:	0 1x1
+epoch:11 Q:	17 2x2
+epoch:11 Q:	16 2x2
+epoch:11 Q:	12 1x4
+clear
+epoch:12 Q:	1 4x1
+epoch:12 Q:	0 2x2
+epoch:12 Q:	9 1x1
+epoch:12 Q:	0 2x2
+epoch:12 Q:	0 1x4
+epoch:12 Q:	17 2x2
+epoch:12 Q:	7 2x2
+clear
+epoch:13 Q:	3 2x2
+epoch:13 Q:	0 1x4
+epoch:13 Q:	1 2x2
+epoch:13 Q:	17 2x2
+epoch:13 Q:	12 1x1
+epoch:13 Q:	24 2x2
+epoch:13 Q:	19 4x1
+clear
+epoch:14 Q:	9 1x4
+epoch:14 Q:	1 2x2
+epoch:14 Q:	0 4x1
+epoch:14 Q:	0 2x2
+epoch:14 Q:	0 1x1
+epoch:14 Q:	3 2x2
+epoch:14 Q:	3 2x2
+clear
+epoch:15 Q:	3 2x2
+epoch:15 Q:	1 1x1
+epoch:15 Q:	0 1x4
+epoch:15 Q:	17 2x2
+epoch:15 Q:	16 2x2
+epoch:15 Q:	16 2x2
+epoch:15 Q:	16 4x1
+clear
+epoch:16 Q:	3 2x2
+epoch:16 Q:	1 2x2
+epoch:16 Q:	0 1x4
+epoch:16 Q:	19 4x1
+epoch:16 Q:	23 1x1
+epoch:16 Q:	24 2x2
+epoch:16 Q:	24 2x2
+clear
+epoch:17 Q:	3 2x2
+epoch:17 Q:	1 2x2
+epoch:17 Q:	0 1x4
+epoch:17 Q:	19 1x1
+epoch:17 Q:	17 2x2
+epoch:17 Q:	12 4x1
+epoch:17 Q:	16 2x2
+clear
+epoch:18 Q:	3 2x2
+epoch:18 Q:	0 1x4
+epoch:18 Q:	1 1x1
+epoch:18 Q:	17 2x2
+epoch:18 Q:	16 2x2
+epoch:18 Q:	16 2x2
+epoch:18 Q:	16 4x1
+clear
+epoch:19 Q:	9 1x4
+epoch:19 Q:	1 2x2
+epoch:19 Q:	0 2x2
+epoch:19 Q:	0 2x2
+epoch:19 Q:	0 1x1
+epoch:19 Q:	3 4x1
+epoch:19 Q:	3 2x2
+clear
+epoch:20 Q:	1 4x1
+epoch:20 Q:	0 2x2
+epoch:20 Q:	0 2x2
+epoch:20 Q:	0 2x2
+epoch:20 Q:	9 1x1
+epoch:20 Q:	0 2x2
+epoch:20 Q:	0 1x4
+clear
+epoch:21 Q:	3 2x2
+epoch:21 Q:	1 1x1
+epoch:21 Q:	0 2x2
+epoch:21 Q:	0 2x2
+epoch:21 Q:	0 4x1
+epoch:21 Q:	0 2x2
+epoch:21 Q:	0 1x4
+clear
+epoch:22 Q:	3 2x2
+epoch:22 Q:	1 2x2
+epoch:22 Q:	0 1x4
+epoch:22 Q:	17 2x2
+epoch:22 Q:	19 4x1
+epoch:22 Q:	12 1x1
+epoch:22 Q:	24 2x2
+clear
+epoch:23 Q:	3 2x2
+epoch:23 Q:	1 4x1
+epoch:23 Q:	1 2x2
+epoch:23 Q:	0 2x2
+epoch:23 Q:	0 1x4
+epoch:23 Q:	17 2x2
+epoch:23 Q:	12 1x1
+clear
+epoch:24 Q:	3 2x2
+epoch:24 Q:	1 2x2
+epoch:24 Q:	0 4x1
+epoch:24 Q:	0 1x1
+epoch:24 Q:	17 2x2
+epoch:24 Q:	16 2x2
+epoch:24 Q:	12 1x4
+clear
+epoch:25 Q:	3 2x2
+epoch:25 Q:	1 1x1
+epoch:25 Q:	0 2x2
+epoch:25 Q:	0 4x1
+epoch:25 Q:	0 2x2
+epoch:25 Q:	0 2x2
+epoch:25 Q:	0 1x4
+clear
+epoch:26 Q:	3 2x2
+epoch:26 Q:	1 2x2
+epoch:26 Q:	0 4x1
+epoch:26 Q:	0 2x2
+epoch:26 Q:	0 1x1
+epoch:26 Q:	19 1x4
+epoch:26 Q:	17 2x2
+clear
+epoch:27 Q:	1 4x1
+epoch:27 Q:	0 2x2
+epoch:27 Q:	0 2x2
+epoch:27 Q:	9 1x1
+epoch:27 Q:	0 1x4
+epoch:27 Q:	17 2x2
+epoch:27 Q:	7 2x2
+clear
+epoch:28 Q:	1 4x1
+epoch:28 Q:	0 2x2
+epoch:28 Q:	9 1x4
+epoch:28 Q:	0 2x2
+epoch:28 Q:	0 1x1
+epoch:28 Q:	17 2x2
+epoch:28 Q:	7 2x2
+clear
+epoch:29 Q:	1 4x1
+epoch:29 Q:	9 1x1
+epoch:29 Q:	0 1x4
+epoch:29 Q:	17 2x2
+epoch:29 Q:	7 2x2
+epoch:29 Q:	24 2x2
+epoch:29 Q:	24 2x2
+clear
+epoch:30 Q:	1 4x1
+epoch:30 Q:	0 2x2
+epoch:30 Q:	0 2x2
+epoch:30 Q:	9 1x4
+epoch:30 Q:	0 2x2
+epoch:30 Q:	0 2x2
+epoch:30 Q:	0 1x1
+clear
+epoch:31 Q:	3 2x2
+epoch:31 Q:	0 1x4
+epoch:31 Q:	1 2x2
+epoch:31 Q:	19 1x1
+epoch:31 Q:	24 4x1
+epoch:31 Q:	17 2x2
+epoch:31 Q:	16 2x2
+clear
+epoch:32 Q:	3 2x2
+epoch:32 Q:	1 4x1
+epoch:32 Q:	0 1x4
+epoch:32 Q:	1 2x2
+epoch:32 Q:	17 2x2
+epoch:32 Q:	12 1x1
+epoch:32 Q:	24 2x2
+clear
+epoch:33 Q:	3 2x2
+epoch:33 Q:	1 4x1
+epoch:33 Q:	0 1x4
+epoch:33 Q:	1 2x2
+epoch:33 Q:	17 2x2
+epoch:33 Q:	19 2x2
+epoch:33 Q:	12 1x1
+clear
+epoch:34 Q:	9 1x1
+epoch:34 Q:	1 2x2
+epoch:34 Q:	0 1x4
+epoch:34 Q:	17 2x2
+epoch:34 Q:	3 2x2
+epoch:34 Q:	12 4x1
+epoch:34 Q:	3 2x2
+clear
+epoch:35 Q:	3 2x2
+epoch:35 Q:	1 2x2
+epoch:35 Q:	0 2x2
+epoch:35 Q:	0 1x1
+epoch:35 Q:	19 1x4
+epoch:35 Q:	19 4x1
+epoch:35 Q:	17 2x2
+clear
+epoch:36 Q:	3 2x2
+epoch:36 Q:	1 1x1
+epoch:36 Q:	0 4x1
+epoch:36 Q:	0 1x4
+epoch:36 Q:	17 2x2
+epoch:36 Q:	16 2x2
+epoch:36 Q:	16 2x2
+clear
+epoch:37 Q:	3 2x2
+epoch:37 Q:	0 1x4
+epoch:37 Q:	1 1x1
+epoch:37 Q:	17 2x2
+epoch:37 Q:	16 4x1
+epoch:37 Q:	16 2x2
+epoch:37 Q:	16 2x2
+clear
+epoch:38 Q:	1 4x1
+epoch:38 Q:	0 2x2
+epoch:38 Q:	9 1x1
+epoch:38 Q:	0 1x4
+epoch:38 Q:	17 2x2
+epoch:38 Q:	7 2x2
+epoch:38 Q:	24 2x2
+clear
+epoch:39 Q:	3 2x2
+epoch:39 Q:	1 2x2
+epoch:39 Q:	0 1x4
+epoch:39 Q:	17 2x2
+epoch:39 Q:	19 4x1
+epoch:39 Q:	19 2x2
+epoch:39 Q:	12 1x1
+clear
+epoch:40 Q:	3 2x2
+epoch:40 Q:	1 2x2
+epoch:40 Q:	0 4x1
+epoch:40 Q:	0 1x4
+epoch:40 Q:	17 2x2
+epoch:40 Q:	19 2x2
+epoch:40 Q:	12 1x1
+clear
+epoch:41 Q:	1 4x1
+epoch:41 Q:	9 1x1
+epoch:41 Q:	0 1x4
+epoch:41 Q:	17 2x2
+epoch:41 Q:	7 2x2
+epoch:41 Q:	24 2x2
+epoch:41 Q:	24 2x2
+clear
+epoch:42 Q:	3 2x2
+epoch:42 Q:	1 2x2
+epoch:42 Q:	0 1x4
+epoch:42 Q:	19 1x1
+epoch:42 Q:	17 2x2
+epoch:42 Q:	12 4x1
+epoch:42 Q:	16 2x2
+clear
+epoch:43 Q:	9 1x4
+epoch:43 Q:	1 2x2
+epoch:43 Q:	0 2x2
+epoch:43 Q:	0 4x1
+epoch:43 Q:	0 1x1
+epoch:43 Q:	3 2x2
+epoch:43 Q:	3 2x2
+clear
+epoch:44 Q:	3 2x2
+epoch:44 Q:	1 2x2
+epoch:44 Q:	0 2x2
+epoch:44 Q:	0 1x4
+epoch:44 Q:	19 4x1
+epoch:44 Q:	24 2x2
+epoch:44 Q:	23 1x1
+clear
+epoch:45 Q:	3 2x2
+epoch:45 Q:	1 4x1
+epoch:45 Q:	0 1x4
+epoch:45 Q:	1 1x1
+epoch:45 Q:	17 2x2
+epoch:45 Q:	16 2x2
+epoch:45 Q:	16 2x2
+clear
+epoch:46 Q:	3 2x2
+epoch:46 Q:	1 2x2
+epoch:46 Q:	0 2x2
+epoch:46 Q:	0 2x2
+epoch:46 Q:	0 1x1
+epoch:46 Q:	19 4x1
+epoch:46 Q:	23 1x4
+clear
+epoch:47 Q:	9 1x4
+epoch:47 Q:	1 2x2
+epoch:47 Q:	0 2x2
+epoch:47 Q:	0 1x1
+epoch:47 Q:	3 2x2
+epoch:47 Q:	3 2x2
+epoch:47 Q:	3 4x1
+clear
+epoch:48 Q:	1 4x1
+epoch:48 Q:	0 2x2
+epoch:48 Q:	0 2x2
+epoch:48 Q:	9 1x4
+epoch:48 Q:	0 1x1
+epoch:48 Q:	17 2x2
+epoch:48 Q:	7 2x2
+clear
+epoch:49 Q:	9 1x4
+epoch:49 Q:	1 2x2
+epoch:49 Q:	0 2x2
+epoch:49 Q:	0 2x2
+epoch:49 Q:	0 2x2
+epoch:49 Q:	0 1x1
+epoch:49 Q:	3 4x1
+clear
+epoch:50 Q:	9 1x1
+epoch:50 Q:	1 2x2
+epoch:50 Q:	0 2x2
+epoch:50 Q:	0 1x4
+epoch:50 Q:	19 4x1
+epoch:50 Q:	3 2x2
+epoch:50 Q:	3 2x2
+clear
+epoch:51 Q:	1 4x1
+epoch:51 Q:	0 2x2
+epoch:51 Q:	0 2x2
+epoch:51 Q:	9 1x1
+epoch:51 Q:	0 1x4
+epoch:51 Q:	17 2x2
+epoch:51 Q:	7 2x2
+clear
+epoch:52 Q:	3 2x2
+epoch:52 Q:	1 1x1
+epoch:52 Q:	0 4x1
+epoch:52 Q:	0 1x4
+epoch:52 Q:	17 2x2
+epoch:52 Q:	16 2x2
+epoch:52 Q:	16 2x2
+clear
+epoch:53 Q:	3 2x2
+epoch:53 Q:	1 2x2
+epoch:53 Q:	0 2x2
+epoch:53 Q:	0 2x2
+epoch:53 Q:	0 4x1
+epoch:53 Q:	0 1x1
+epoch:53 Q:	19 1x4
+clear
+epoch:54 Q:	3 2x2
+epoch:54 Q:	1 1x1
+epoch:54 Q:	0 4x1
+epoch:54 Q:	0 1x4
+epoch:54 Q:	17 2x2
+epoch:54 Q:	16 2x2
+epoch:54 Q:	16 2x2
+clear
+epoch:55 Q:	3 2x2
+epoch:55 Q:	1 2x2
+epoch:55 Q:	0 1x1
+epoch:55 Q:	17 2x2
+epoch:55 Q:	16 2x2
+epoch:55 Q:	12 1x4
+epoch:55 Q:	19 4x1
+clear
+epoch:56 Q:	9 1x1
+epoch:56 Q:	1 2x2
+epoch:56 Q:	0 2x2
+epoch:56 Q:	0 4x1
+epoch:56 Q:	0 2x2
+epoch:56 Q:	0 2x2
+epoch:56 Q:	0 1x4
+clear
+epoch:57 Q:	9 1x4
+epoch:57 Q:	1 1x1
+epoch:57 Q:	0 2x2
+epoch:57 Q:	0 2x2
+epoch:57 Q:	0 2x2
+epoch:57 Q:	0 2x2
+epoch:57 Q:	0 4x1
+clear
+epoch:58 Q:	3 2x2
+epoch:58 Q:	1 2x2
+epoch:58 Q:	0 2x2
+epoch:58 Q:	0 2x2
+epoch:58 Q:	0 4x1
+epoch:58 Q:	0 1x1
+epoch:58 Q:	19 1x4
+clear
+epoch:59 Q:	1 4x1
+epoch:59 Q:	9 1x4
+epoch:59 Q:	0 2x2
+epoch:59 Q:	0 1x1
+epoch:59 Q:	17 2x2
+epoch:59 Q:	7 2x2
+epoch:59 Q:	10 2x2
+clear
+epoch:60 Q:	3 2x2
+epoch:60 Q:	1 2x2
+epoch:60 Q:	0 1x1
+epoch:60 Q:	19 4x1
+epoch:60 Q:	17 2x2
+epoch:60 Q:	23 1x4
+epoch:60 Q:	17 2x2
+clear
+epoch:61 Q:	3 2x2
+epoch:61 Q:	1 2x2
+epoch:61 Q:	0 1x1
+epoch:61 Q:	19 1x4
+epoch:61 Q:	17 2x2
+epoch:61 Q:	19 4x1
+epoch:61 Q:	16 2x2
+clear
+epoch:62 Q:	1 4x1
+epoch:62 Q:	0 2x2
+epoch:62 Q:	9 1x4
+epoch:62 Q:	0 2x2
+epoch:62 Q:	0 1x1
+epoch:62 Q:	17 2x2
+epoch:62 Q:	7 2x2
+clear
+epoch:63 Q:	9 1x1
+epoch:63 Q:	1 1x4
+epoch:63 Q:	19 4x1
+epoch:63 Q:	17 2x2
+epoch:63 Q:	17 2x2
+epoch:63 Q:	17 2x2
+epoch:63 Q:	17 2x2
+clear
+epoch:64 Q:	1 4x1
+epoch:64 Q:	0 2x2
+epoch:64 Q:	0 2x2
+epoch:64 Q:	0 2x2
+epoch:64 Q:	9 1x4
+epoch:64 Q:	0 1x1
+epoch:64 Q:	17 2x2
+clear
+epoch:65 Q:	9 1x4
+epoch:65 Q:	1 4x1
+epoch:65 Q:	0 2x2
+epoch:65 Q:	0 2x2
+epoch:65 Q:	0 1x1
+epoch:65 Q:	17 2x2
+epoch:65 Q:	7 2x2
+clear
+epoch:66 Q:	3 2x2
+epoch:66 Q:	1 1x1
+epoch:66 Q:	0 1x4
+epoch:66 Q:	17 2x2
+epoch:66 Q:	16 2x2
+epoch:66 Q:	16 2x2
+epoch:66 Q:	16 4x1
+clear
+epoch:67 Q:	1 4x1
+epoch:67 Q:	0 2x2
+epoch:67 Q:	9 1x1
+epoch:67 Q:	0 2x2
+epoch:67 Q:	0 2x2
+epoch:67 Q:	0 2x2
+epoch:67 Q:	0 1x4
+clear
+epoch:68 Q:	3 2x2
+epoch:68 Q:	1 1x1
+epoch:68 Q:	0 2x2
+epoch:68 Q:	0 2x2
+epoch:68 Q:	0 2x2
+epoch:68 Q:	0 4x1
+epoch:68 Q:	0 1x4
+clear
+epoch:69 Q:	3 2x2
+epoch:69 Q:	1 1x1
+epoch:69 Q:	0 2x2
+epoch:69 Q:	0 4x1
+epoch:69 Q:	0 2x2
+epoch:69 Q:	0 2x2
+epoch:69 Q:	0 1x4
+clear
+epoch:70 Q:	3 2x2
+epoch:70 Q:	1 1x1
+epoch:70 Q:	0 4x1
+epoch:70 Q:	0 2x2
+epoch:70 Q:	0 1x4
+epoch:70 Q:	17 2x2
+epoch:70 Q:	16 2x2
+clear
+epoch:71 Q:	3 2x2
+epoch:71 Q:	1 2x2
+epoch:71 Q:	0 2x2
+epoch:71 Q:	0 1x4
+epoch:71 Q:	17 2x2
+epoch:71 Q:	19 4x1
+epoch:71 Q:	12 1x1
+clear
+epoch:72 Q:	1 4x1
+epoch:72 Q:	0 2x2
+epoch:72 Q:	0 2x2
+epoch:72 Q:	9 1x4
+epoch:72 Q:	0 2x2
+epoch:72 Q:	0 1x1
+epoch:72 Q:	17 2x2
+clear
+epoch:73 Q:	3 2x2
+epoch:73 Q:	1 4x1
+epoch:73 Q:	1 2x2
+epoch:73 Q:	0 1x4
+epoch:73 Q:	17 2x2
+epoch:73 Q:	19 2x2
+epoch:73 Q:	12 1x1
+clear
+epoch:74 Q:	9 1x4
+epoch:74 Q:	1 2x2
+epoch:74 Q:	0 2x2
+epoch:74 Q:	0 2x2
+epoch:74 Q:	0 2x2
+epoch:74 Q:	0 4x1
+epoch:74 Q:	0 1x1
+clear
+epoch:75 Q:	1 4x1
+epoch:75 Q:	0 2x2
+epoch:75 Q:	9 1x1
+epoch:75 Q:	0 2x2
+epoch:75 Q:	0 2x2
+epoch:75 Q:	0 1x4
+epoch:75 Q:	17 2x2
+clear
+epoch:76 Q:	3 2x2
+epoch:76 Q:	1 4x1
+epoch:76 Q:	1 2x2
+epoch:76 Q:	0 1x1
+epoch:76 Q:	17 2x2
+epoch:76 Q:	16 2x2
+epoch:76 Q:	12 1x4
+clear
+epoch:77 Q:	3 2x2
+epoch:77 Q:	1 2x2
+epoch:77 Q:	0 1x1
+epoch:77 Q:	19 1x4
+epoch:77 Q:	17 2x2
+epoch:77 Q:	16 2x2
+epoch:77 Q:	19 4x1
+clear
+epoch:78 Q:	1 4x1
+epoch:78 Q:	0 2x2
+epoch:78 Q:	0 2x2
+epoch:78 Q:	0 2x2
+epoch:78 Q:	9 1x4
+epoch:78 Q:	0 1x1
+epoch:78 Q:	17 2x2
+clear
+epoch:79 Q:	3 2x2
+epoch:79 Q:	0 1x4
+epoch:79 Q:	1 2x2
+epoch:79 Q:	19 1x1
+epoch:79 Q:	24 4x1
+epoch:79 Q:	17 2x2
+epoch:79 Q:	16 2x2
+clear
+epoch:80 Q:	3 2x2
+epoch:80 Q:	1 4x1
+epoch:80 Q:	1 2x2
+epoch:80 Q:	0 1x4
+epoch:80 Q:	17 2x2
+epoch:80 Q:	19 2x2
+epoch:80 Q:	12 1x1
+clear
+epoch:81 Q:	3 2x2
+epoch:81 Q:	1 2x2
+epoch:81 Q:	0 4x1
+epoch:81 Q:	0 2x2
+epoch:81 Q:	0 1x4
+epoch:81 Q:	17 2x2
+epoch:81 Q:	12 1x1
+clear
+epoch:82 Q:	1 4x1
+epoch:82 Q:	0 2x2
+epoch:82 Q:	9 1x4
+epoch:82 Q:	0 2x2
+epoch:82 Q:	0 2x2
+epoch:82 Q:	0 1x1
+epoch:82 Q:	17 2x2
+clear
+epoch:83 Q:	3 2x2
+epoch:83 Q:	1 2x2
+epoch:83 Q:	0 1x4
+epoch:83 Q:	19 4x1
+epoch:83 Q:	23 1x1
+epoch:83 Q:	24 2x2
+epoch:83 Q:	24 2x2
+clear
+epoch:84 Q:	9 1x4
+epoch:84 Q:	1 2x2
+epoch:84 Q:	0 1x1
+epoch:84 Q:	3 2x2
+epoch:84 Q:	3 2x2
+epoch:84 Q:	3 4x1
+epoch:84 Q:	3 2x2
+clear
+epoch:85 Q:	9 1x4
+epoch:85 Q:	1 2x2
+epoch:85 Q:	0 2x2
+epoch:85 Q:	0 1x1
+epoch:85 Q:	3 2x2
+epoch:85 Q:	3 2x2
+epoch:85 Q:	3 4x1
+clear
+epoch:86 Q:	3 2x2
+epoch:86 Q:	1 1x1
+epoch:86 Q:	0 2x2
+epoch:86 Q:	0 2x2
+epoch:86 Q:	0 2x2
+epoch:86 Q:	0 1x4
+epoch:86 Q:	2 4x1
+clear
+epoch:87 Q:	9 1x4
+epoch:87 Q:	1 1x1
+epoch:87 Q:	0 2x2
+epoch:87 Q:	0 4x1
+epoch:87 Q:	0 2x2
+epoch:87 Q:	0 2x2
+epoch:87 Q:	0 2x2
+clear
+epoch:88 Q:	3 2x2
+epoch:88 Q:	0 1x4
+epoch:88 Q:	1 4x1
+epoch:88 Q:	1 2x2
+epoch:88 Q:	17 2x2
+epoch:88 Q:	19 2x2
+epoch:88 Q:	12 1x1
+clear
+epoch:89 Q:	3 2x2
+epoch:89 Q:	0 1x4
+epoch:89 Q:	1 2x2
+epoch:89 Q:	19 1x1
+epoch:89 Q:	17 2x2
+epoch:89 Q:	12 4x1
+epoch:89 Q:	16 2x2
+clear
+epoch:90 Q:	1 4x1
+epoch:90 Q:	0 2x2
+epoch:90 Q:	9 1x4
+epoch:90 Q:	0 2x2
+epoch:90 Q:	0 2x2
+epoch:90 Q:	0 1x1
+epoch:90 Q:	17 2x2
+clear
+epoch:91 Q:	3 2x2
+epoch:91 Q:	1 2x2
+epoch:91 Q:	0 1x1
+epoch:91 Q:	19 1x4
+epoch:91 Q:	19 4x1
+epoch:91 Q:	17 2x2
+epoch:91 Q:	17 2x2
+clear
+epoch:92 Q:	3 2x2
+epoch:92 Q:	1 4x1
+epoch:92 Q:	0 1x4
+epoch:92 Q:	1 1x1
+epoch:92 Q:	17 2x2
+epoch:92 Q:	16 2x2
+epoch:92 Q:	16 2x2
+clear
+epoch:93 Q:	9 1x4
+epoch:93 Q:	1 1x1
+epoch:93 Q:	0 4x1
+epoch:93 Q:	0 2x2
+epoch:93 Q:	0 2x2
+epoch:93 Q:	0 2x2
+epoch:93 Q:	0 2x2
+clear
+epoch:94 Q:	1 4x1
+epoch:94 Q:	0 2x2
+epoch:94 Q:	0 2x2
+epoch:94 Q:	0 2x2
+epoch:94 Q:	9 1x4
+epoch:94 Q:	0 2x2
+epoch:94 Q:	0 1x1
+clear
+epoch:95 Q:	3 2x2
+epoch:95 Q:	1 4x1
+epoch:95 Q:	1 2x2
+epoch:95 Q:	0 2x2
+epoch:95 Q:	0 1x1
+epoch:95 Q:	17 2x2
+epoch:95 Q:	12 1x4
+clear
+epoch:96 Q:	3 2x2
+epoch:96 Q:	1 2x2
+epoch:96 Q:	0 1x1
+epoch:96 Q:	19 4x1
+epoch:96 Q:	17 2x2
+epoch:96 Q:	17 2x2
+epoch:96 Q:	23 1x4
+clear
+epoch:97 Q:	9 1x4
+epoch:97 Q:	1 2x2
+epoch:97 Q:	0 1x1
+epoch:97 Q:	3 2x2
+epoch:97 Q:	3 4x1
+epoch:97 Q:	3 2x2
+epoch:97 Q:	3 2x2
+clear
+epoch:98 Q:	3 2x2
+epoch:98 Q:	1 1x1
+epoch:98 Q:	0 2x2
+epoch:98 Q:	0 2x2
+epoch:98 Q:	0 4x1
+epoch:98 Q:	0 1x4
+epoch:98 Q:	17 2x2
+clear
+epoch:99 Q:	9 1x1
+epoch:99 Q:	1 2x2
+epoch:99 Q:	0 4x1
+epoch:99 Q:	0 2x2
+epoch:99 Q:	0 1x4
+epoch:99 Q:	17 2x2
+epoch:99 Q:	3 2x2
+clear
+epoch:100 Q:	3 2x2
+epoch:100 Q:	1 2x2
+epoch:100 Q:	0 2x2
+epoch:100 Q:	0 4x1
+epoch:100 Q:	0 1x1
+epoch:100 Q:	17 2x2
+epoch:100 Q:	12 1x4
+clear
